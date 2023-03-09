@@ -39,7 +39,7 @@ public class MyFirstTestNGTest {
 			
 			
 		
-		assertEquals(actualTitleAfterLogin, expectedTitleAfterLogin);
+//		assertEquals(actualTitleAfterLogin, expectedTitleAfterLogin);
 		assertEquals(actualTitleAfterLogin, expectedTitleAfterLogin, "Login is not sucessfull");
   }
   
